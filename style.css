@@ -1,0 +1,29 @@
+html{
+    max-width: 70vw;
+    font-family: 'Abel', sans-serif;
+}
+
+body{
+    margin-left: 25vw;
+}
+
+h1{
+    color: #ec183f;
+}
+
+hr{
+    margin-bottom: 30px;
+}
+
+#foto_banner{
+    width: 45vw;
+}
+
+#sociais{
+    margin-top: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
