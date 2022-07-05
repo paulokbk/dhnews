@@ -1,25 +1,25 @@
-html{
+html {
     max-width: 70vw;
     font-family: 'Abel', sans-serif;
 }
 
-body{
+body {
     margin-left: 25vw;
 }
 
-h1{
+h1 {
     color: #ec183f;
 }
 
-hr{
+hr {
     margin-bottom: 30px;
 }
 
-#foto_banner{
+#foto_banner {
     width: 45vw;
 }
 
-#sociais{
+#sociais {
     margin-top: 30px;
     list-style: none;
     display: flex;
